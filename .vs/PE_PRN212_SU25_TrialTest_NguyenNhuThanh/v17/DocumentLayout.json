@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\researchprojectmanagement_182333\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|solutionrelative:researchprojectmanagement_182333\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\researchprojectmanagement_182333\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|solutionrelative:researchprojectmanagement_182333\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\researchprojectmanagement_182333\\researchprojectmanagement_182333.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|solutionrelative:researchprojectmanagement_182333\\researchprojectmanagement_182333.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0AB147-96BE-4847-B63D-91546E8E25EB}|Repositories\\Repositories.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D0AB147-96BE-4847-B63D-91546E8E25EB}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\researchprojectmanagement_182333\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|solutionrelative:researchprojectmanagement_182333\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\researchprojectmanagement_182333\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|solutionrelative:researchprojectmanagement_182333\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\researchprojectmanagement_182333\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|solutionrelative:researchprojectmanagement_182333\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\researchprojectmanagement_182333\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|solutionrelative:researchprojectmanagement_182333\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\researchprojectmanagement_182333\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|solutionrelative:researchprojectmanagement_182333\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\researchprojectmanagement_182333\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|solutionrelative:researchprojectmanagement_182333\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\researchprojectmanagement_182333\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|solutionrelative:researchprojectmanagement_182333\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0AB147-96BE-4847-B63D-91546E8E25EB}|Repositories\\Repositories.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\repositories\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0AB147-96BE-4847-B63D-91546E8E25EB}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159586DB-C991-42B4-9E8A-5E485DAFB1D8}|Services\\Services.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\services\\services\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159586DB-C991-42B4-9E8A-5E485DAFB1D8}|Services\\Services.csproj|solutionrelative:services\\services\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0AB147-96BE-4847-B63D-91546E8E25EB}|Repositories\\Repositories.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\repositories\\basic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0AB147-96BE-4847-B63D-91546E8E25EB}|Repositories\\Repositories.csproj|solutionrelative:repositories\\basic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0AB147-96BE-4847-B63D-91546E8E25EB}|Repositories\\Repositories.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\repositories\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0AB147-96BE-4847-B63D-91546E8E25EB}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159586DB-C991-42B4-9E8A-5E485DAFB1D8}|Services\\Services.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\services\\services\\researchprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159586DB-C991-42B4-9E8A-5E485DAFB1D8}|Services\\Services.csproj|solutionrelative:services\\services\\researchprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\researchprojectmanagement_182333\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA5927-E8D3-42C8-AD14-0E165F50D40C}|ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj|solutionrelative:researchprojectmanagement_182333\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0AB147-96BE-4847-B63D-91546E8E25EB}|Repositories\\Repositories.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\repositories\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0AB147-96BE-4847-B63D-91546E8E25EB}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0AB147-96BE-4847-B63D-91546E8E25EB}|Repositories\\Repositories.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\repositories\\models\\researcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0AB147-96BE-4847-B63D-91546E8E25EB}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\researcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0AB147-96BE-4847-B63D-91546E8E25EB}|Repositories\\Repositories.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\repositories\\models\\researchproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0AB147-96BE-4847-B63D-91546E8E25EB}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\researchproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159586DB-C991-42B4-9E8A-5E485DAFB1D8}|Services\\Services.csproj|d:\\schoolwork\\prn212\\trialtest\\prn212_pe_trialtest\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{159586DB-C991-42B4-9E8A-5E485DAFB1D8}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_182333\\AssemblyInfo.cs",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\AssemblyInfo.cs",
+              "RelativeToolTip": "ResearchProjectManagement_182333\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T03:46:14.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Repositories\\Models\\UserAccount.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\UserAccount.cs",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Repositories\\Models\\UserAccount.cs",
+              "RelativeToolTip": "Repositories\\Models\\UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:09:12.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_182333\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ResearchProjectManagement_182333\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwGAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:08:32.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_182333\\LoginWindow.xaml",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\LoginWindow.xaml",
+              "RelativeToolTip": "ResearchProjectManagement_182333\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-25T07:08:13.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_182333\\App.xaml.cs",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\App.xaml.cs",
+              "RelativeToolTip": "ResearchProjectManagement_182333\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:03:04.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\App.xaml",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_182333\\App.xaml",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\App.xaml",
+              "RelativeToolTip": "ResearchProjectManagement_182333\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-25T06:57:38.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailWindow.xaml.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\DetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_182333\\DetailWindow.xaml.cs",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\DetailWindow.xaml.cs",
+              "RelativeToolTip": "ResearchProjectManagement_182333\\DetailWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:26:33.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_182333\\DetailWindow.xaml",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\DetailWindow.xaml",
+              "RelativeToolTip": "ResearchProjectManagement_182333\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-25T06:04:24.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResearchProject.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Repositories\\Models\\ResearchProject.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\ResearchProject.cs",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Repositories\\Models\\ResearchProject.cs",
+              "RelativeToolTip": "Repositories\\Models\\ResearchProject.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:45:31.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Researcher.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Repositories\\Models\\Researcher.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\Researcher.cs",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Repositories\\Models\\Researcher.cs",
+              "RelativeToolTip": "Repositories\\Models\\Researcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:45:30.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResearchProjectService.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Services\\Services\\ResearchProjectService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\ResearchProjectService.cs",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Services\\Services\\ResearchProjectService.cs",
+              "RelativeToolTip": "Services\\Services\\ResearchProjectService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA5wDMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:45:22.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserAccountService.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Services\\Services\\UserAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\UserAccountService.cs",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Services\\Services\\UserAccountService.cs",
+              "RelativeToolTip": "Services\\Services\\UserAccountService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAWwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:44:13.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T05:44:09.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Repositories\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\Context.cs",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Repositories\\Models\\Context.cs",
+              "RelativeToolTip": "Repositories\\Models\\Context.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:43:17.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Repositories\\Basic\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Basic\\GenericRepository.cs",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Repositories\\Basic\\GenericRepository.cs",
+              "RelativeToolTip": "Repositories\\Basic\\GenericRepository.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAwAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:42:11.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Repositories\\Interface\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\IGenericRepository.cs",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Repositories\\Interface\\IGenericRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\IGenericRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:42:08.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repositories.csproj",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T05:41:30.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\appsettings.json",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_182333\\appsettings.json",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\appsettings.json",
+              "RelativeToolTip": "ResearchProjectManagement_182333\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T05:36:22.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAE0HAAAAAAAAAAAnwGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-25T05:35:53.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResearchProjectManagement_182333.csproj",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj",
+              "RelativeToolTip": "ResearchProjectManagement_182333\\ResearchProjectManagement_182333.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T05:34:53.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_182333\\MainWindow.xaml",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\MainWindow.xaml",
+              "RelativeToolTip": "ResearchProjectManagement_182333\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-25T05:33:09.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ResearchProjectManagement_182333\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\SchoolWork\\PRN212\\TrialTest\\PRN212_PE_TrialTest\\ResearchProjectManagement_182333\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ResearchProjectManagement_182333\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwCsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:33:08.574Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 151,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

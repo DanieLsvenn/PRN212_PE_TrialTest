@@ -1,0 +1,36 @@
+﻿<Window x:Class="ResearchProjectManagement_182333.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ResearchProjectManagement_182333"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <!-- Search Section -->
+        <Label Content="Search:" HorizontalAlignment="Left" Margin="170,20,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="SearchTextBox" HorizontalAlignment="Left" Height="23" Margin="220,22,0,0" VerticalAlignment="Top" Width="300" 
+                 TextChanged="SearchTextBox_TextChanged"/>
+        <Button x:Name="ClearSearchButton" Content="Clear" HorizontalAlignment="Left" Height="23" Margin="530,22,0,0" VerticalAlignment="Top" Width="60" 
+                Click="ClearSearchButton_Click"/>
+        
+        <!--Data Grid section-->
+        <DataGrid x:Name="ModelDataGrid" HorizontalAlignment="Left" Height="200" Margin="170,66,0,0" VerticalAlignment="Top" Width="600" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ProjectId" Binding="{Binding ProjectId}" Width="*"/>
+                <DataGridTextColumn Header="ProjectTitle" Binding="{Binding ProjectTitle}" Width="*"/>
+                <DataGridTextColumn Header="ResearchField" Binding="{Binding ResearchField}" Width="*"/>
+                <DataGridTextColumn Header="StartDate" Binding="{Binding StartDate}" Width="*"/>
+                <DataGridTextColumn Header="EndDate" Binding="{Binding EndDate}" Width="*"/>
+                <DataGridTextColumn Header="LeadResearcher" Binding="{Binding LeadResearcher.FullName}" Width="*"/>
+                <DataGridTextColumn Header="Budget" Binding="{Binding Budget}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!--CRUD Buttons-->
+        <Button x:Name="CreateButton" Content="Create" HorizontalAlignment="Left" Height="20" Margin="50,80,0,0" VerticalAlignment="Top" Width="90" Click="CreateButton_Click"/>
+        <Button x:Name="UpdateButton" Content="Update" HorizontalAlignment="Left" Height="20" Margin="50,110,0,0" VerticalAlignment="Top" Width="90" Click="UpdateButton_Click"/>
+        <Button x:Name="DeleteButton" Content="Delete" HorizontalAlignment="Left" Height="20" Margin="50,140,0,0" VerticalAlignment="Top" Width="90" Click="DeleteButton_Click"/>
+        <Button x:Name="QuitButton" Content="Quit" HorizontalAlignment="Left" Height="20" Margin="50,170,0,0" VerticalAlignment="Top" Width="90" Click="QuitButton_Click"/>
+    </Grid>
+</Window>

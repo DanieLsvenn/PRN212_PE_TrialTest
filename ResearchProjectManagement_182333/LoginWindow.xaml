@@ -1,0 +1,49 @@
+﻿<Window x:Class="ResearchProjectManagement_182333.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ResearchProjectManagement_182333"
+        mc:Ignorable="d"
+        Title="Research Project Management - Login" Height="300" Width="400"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <!-- Title -->
+        <TextBlock Grid.Row="0" Text="Login to Research Project Management" 
+                   FontSize="16" FontWeight="Bold" 
+                   HorizontalAlignment="Center" Margin="10,20,10,20"/>
+        
+        <!-- Email -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="20,10">
+            <Label Content="Email:" Width="80" VerticalAlignment="Center"/>
+            <TextBox x:Name="txtEmail" Width="250" Height="25" VerticalAlignment="Center" KeyDown="txtEmail_KeyDown"/>
+        </StackPanel>
+        
+        <!-- Password -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="20,10">
+            <Label Content="Password:" Width="80" VerticalAlignment="Center"/>
+            <PasswordBox x:Name="txtPassword" Width="250" Height="25" VerticalAlignment="Center" KeyDown="txtPassword_KeyDown"/>
+        </StackPanel>
+        
+        <!-- Login Button -->
+        <Button Grid.Row="3" x:Name="btnLogin" Content="Login" 
+                Width="100" Height="30" Margin="20"
+                HorizontalAlignment="Center"
+                Click="btnLogin_Click"
+                />
+        
+        <!-- Status Message -->
+        <TextBlock Grid.Row="4" x:Name="txtStatus" 
+                   HorizontalAlignment="Center" 
+                   Foreground="Red" Margin="10"/>
+    </Grid>
+</Window>
